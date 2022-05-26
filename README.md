@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cauesilva1
 - 👀 I’m interested in programaçao
-- 🌱 I’m currently learning html, css, java
+- 🌱 I’m currently learning html, css, javascript/nodeJs
  - 📫 How to reach me cauecatonesilva@gmail.com
  
 <!---
