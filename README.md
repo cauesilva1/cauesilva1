@@ -1,5 +1,7 @@
 ### Hi, eu sou o Caue!!, Menino que curte arrumar um problema para resolver ✌️
 
+## meu portifolio: https://portifolio-gamma-liard-15.vercel.app/#home
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauecatonesilva1551/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cauecatonesilva@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cauecsilva/)
