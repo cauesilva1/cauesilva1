@@ -21,7 +21,8 @@
     <img align=center alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align=center alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align=center alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-    <img align=center alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img align=center alt="Next.js + Tailwind CSS" src="https://img.shields.io/badge/Next.js%20%2B%20Tailwind%20CSS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>
+
 
  <div/><br/>
 
