@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauesilva1&layout=compact)](https://github.com/cauesilva1/github-readme-stats)
 
-## Tercnologias que eu crio meus projetinhos!!
+## Technologies that I create my projects!!
 
 <div style="display: inline-block">
     <img align=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -26,4 +26,4 @@
 
  <div/><br/>
 
-## estou cursando Analise e desenvolvimento de sistemas, amo tecnologia, sempre querendo aprender mais sobre esse vasto mundo de programação 💻🌐
+## I finished my Systems Analysis and Development course, I love technology, always wanting to learn more about this vast world of programming 💻🌐
