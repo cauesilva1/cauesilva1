@@ -1,4 +1,14 @@
-### Hi, I'm Caue!!, I'm a boy who enjoys finding a problem to solve ✌️
+const titleEffect = () => {
+  setInterval(() => {
+    console.clear();
+    console.log("DEV FULLSTACK");
+    setTimeout(() => {
+      console.clear();
+    }, 1000);
+  }, 2000);
+};
+
+titleEffect();
 
 ## my portfolio: https://portifolio-caue.vercel.app
 
@@ -25,8 +35,6 @@
 
 
  <div/><br/>
-
-## I finished my Systems Analysis and Development course. I love technology and always eager to learn more about this vast world of programming! 💻🌐
 
 Here's a funny code snippet for you:
 
