@@ -1,14 +1,4 @@
-const titleEffect = () => {
-  setInterval(() => {
-    console.clear();
-    console.log("DEV FULLSTACK");
-    setTimeout(() => {
-      console.clear();
-    }, 1000);
-  }, 2000);
-};
-
-titleEffect();
+## DEV FULL-STACK
 
 ## my portfolio: https://portifolio-caue.vercel.app
 
