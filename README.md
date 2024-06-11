@@ -26,4 +26,20 @@
 
  <div/><br/>
 
-## I finished my Systems Analysis and Development course, I love technology, always wanting to learn more about this vast world of programming 💻🌐
+## I finished my Systems Analysis and Development course. I love technology and always eager to learn more about this vast world of programming! 💻🌐
+
+Here's a funny code snippet for you:
+
+```javascript
+const enjoyLife = () => {
+  while (true) {
+    console.log("Life is beautiful, let's enjoy every moment! 😊🌟");
+    console.log("Happiness is not a destination, it's a journey! 🚀");
+    console.log("Smile, laugh, and cherish the little things in life! 😄🌻");
+  }
+};
+
+enjoyLife();
+
+
+
